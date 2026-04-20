@@ -1,5 +1,11 @@
 body{
     margin: auto;
     padding: auto;
-    
+
+}
+
+.container{
+    text-align: center;
+    gap: 10px;
+    display: flex;
 }
